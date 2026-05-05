@@ -4,13 +4,14 @@
 
 <p align="center">
   <a href="https://github.com/sarsijshriv">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="GitHub" height="36" src="https://skillicons.dev/icons?i=github" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://in.linkedin.com/in/sarsijshriv">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" height="36" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=sarsijshriv&style=for-the-badge&color=2563eb&label=Profile%20Views" />
 </p>
+
 
 <br/>
 
