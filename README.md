@@ -11,6 +11,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarsijshriv&style=for-the-badge&color=2563eb&label=Profile%20Views" />
+</p>
+
 <br/>
 
 ## About Me
