@@ -4,11 +4,12 @@
 
 <p align="center">
   <a href="https://github.com/sarsijshriv">
-    <img src="https://img.shields.io/badge/GitHub-sarsijshriv-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://in.linkedin.com/in/sarsijshriv">
-    <img src="https://img.shields.io/badge/LinkedIn-Sarsij%20Shrivastava-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=sarsijshriv&style=for-the-badge&color=2563eb&label=Profile%20Views" />
 </p>
 
 <br/>
@@ -62,9 +63,9 @@ I work on backend and systems engineering problems where performance, correctnes
         High-performance, lock-free MPSC order matching engine in Java, designed with mechanical sympathy and predictable latency in mind.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Lock--Free-Concurrency-2563eb?style=flat-square" />
-        <img src="https://img.shields.io/badge/Low--Latency-38bdf8?style=flat-square&labelColor=0f172a" />
+        <img alt="Java" src="https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=white" />
+        <img alt="Lock-Free Concurrency" src="https://img.shields.io/badge/Lock--Free-Concurrency-2563eb?style=flat-square" />
+        <img alt="Low Latency" src="https://img.shields.io/badge/Low--Latency-38bdf8?style=flat-square&labelColor=0f172a" />
       </p>
       <p>
         <strong>Highlights:</strong> CAS-based ring buffers, cache-line padding, JVM-aware performance engineering.
@@ -83,9 +84,9 @@ I work on backend and systems engineering problems where performance, correctnes
         Distributed, multi-dimensional rate limiter for scalable API protection using Java, Spring Boot, Redis, and Lua.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-2563eb?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-38bdf8?style=flat-square&logo=redis&logoColor=white&labelColor=0f172a" />
+        <img alt="Java" src="https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=white" />
+        <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2563eb?style=flat-square&logo=springboot&logoColor=white" />
+        <img alt="Redis" src="https://img.shields.io/badge/Redis-38bdf8?style=flat-square&logo=redis&logoColor=white&labelColor=0f172a" />
       </p>
       <p>
         <strong>Highlights:</strong> API-key, IP, endpoint, and global rate limiting with Redis-backed distributed state.
@@ -102,7 +103,7 @@ I work on backend and systems engineering problems where performance, correctnes
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js,spring,kafka,redis,postgres,mysql,elasticsearch,aws,docker,jenkins,git,github,linux" />
+  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=java,cpp,python,ts,js,spring,kafka,redis,postgres,mysql,elasticsearch,aws,docker,jenkins,git,github,linux" />
 </p>
 
 <br/>
@@ -134,7 +135,7 @@ I work on backend and systems engineering problems where performance, correctnes
 
 <br/>
 
-## Engineering Philosophy
+## How I Work
 
 I enjoy building systems that stay fast, reliable, and understandable under real-world load.
 
